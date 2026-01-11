@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ahmedbne
-- 👀 I’m interested in Programming, AI, Computer science.
-- 🌱 I’m currently learning Python, Mathematics.
+- Hi, I’m @Ahmedbne
+- I’m interested in maths and finance.
 
 <!---
 Ahmedbne/Ahmedbne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
